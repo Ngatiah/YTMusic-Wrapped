@@ -1,8 +1,3 @@
-# YTMusic Wrapped
-
----
-
-
 ## Requirements
 
 - Python 3.7+
