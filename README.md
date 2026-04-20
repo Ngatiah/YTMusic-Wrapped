@@ -1,5 +1,4 @@
 # YTMusic Wrapped
----
 
 ## Requirements
 
