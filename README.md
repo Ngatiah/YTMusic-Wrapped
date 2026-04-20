@@ -1,7 +1,5 @@
 # YTM Wrapped
 
-Generate a Spotify Wrapped-style report for your YouTube Music listening history using your Google Takeout data.
-
 ![YTM Wrapped Preview](preview.png)
 
 ---
